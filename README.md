@@ -1,5 +1,5 @@
 # InfoPortal
-Information portal made using JSPs and Servlets.
+Information portal with CRUD operations made using JSPs and Servlets.
 
 Preview:
 
