@@ -1,6 +1,8 @@
 # InfoPortal
 Information portal made using JSP.
 
+Preview:
+
 ![preview1](/images/preview1.jpg)
 
 ![preview1](/images/preview2.jpg)
